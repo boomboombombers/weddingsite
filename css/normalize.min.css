@@ -129,7 +129,9 @@ samp {
 	font-size: 1em
 }
 
-button,
+button {
+	text-transform: none;
+}
 input,
 optgroup,
 select,
